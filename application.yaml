@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/xxx/my-gitops.git
+    repoURL: https://github.com/Sitthichonh/test-gitops.git
     targetRevision: HEAD
     path: .
 
